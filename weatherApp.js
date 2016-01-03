@@ -1,6 +1,6 @@
 var http = require('http')
 
-
+ 
     //Print the weather
 var printMessage = function (city, weather) {
     var message = 'The current weather in ' + city + ' is ' + weather + '.';
